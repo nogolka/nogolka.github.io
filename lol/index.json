@@ -1,12 +1,12 @@
 [
     {
         "name": "chinseok",
-        "profile_image_url": "chinseok.png",
-        "detail_url": "chinseok.html"
+        "profile_image_url": "http://nogolka.github.io/lol/chinseok.png",
+        "detail_url": "http://nogolka.github.io/lol/chinseok.html"
     },
     {
         "name": "jaeha",
-        "profile_image_url": "jaeha.jpg",
-        "detail_url": "jaeha.html"
+        "profile_image_url": "http://nogolka.github.io/lol/jaeha.jpg",
+        "detail_url": "http://nogolka.github.io/lol/jaeha.html"
     }
 ]
